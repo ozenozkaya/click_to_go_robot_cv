@@ -19,7 +19,7 @@
 
 
 #define PI 3.14159265
-#define MAX_BLUR_KERNEL_LENGTH  (19)
+#define MAX_BLUR_KERNEL_LENGTH  (9)
 
 using namespace std;
 using namespace cv;
